@@ -1,0 +1,23 @@
+{
+    "name": "mkhit/beautiful-errors",
+    "description": "Makes errors and exceptions more informative and beautiful",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gor Mkhitaryan",
+            "email": "gor.mhitaryan@list.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.0",
+        "mkgor/highlighter": "dev-master",
+        "coduo/php-to-string": "^4.0@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "BeautifulErrors\\": "src/"
+        }
+    }
+}
