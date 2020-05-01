@@ -18,4 +18,4 @@ Beautiful errors OFF:
 
 Beautiful errors ON:
 
-![Image](https://i.imgur.com/JTcqVaY.png)
+![Image](https://i.imgur.com/Ytrexbc.png)
